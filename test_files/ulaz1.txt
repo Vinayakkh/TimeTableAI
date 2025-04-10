@@ -1,0 +1,171 @@
+{
+    "Classrooms": {
+        "a": ["Atelier"],
+        "k": ["Kolarac"],
+        "n": ["U1", "U8"],
+        "r": ["U3", "U4", "U5", "U7"],
+        "s": ["Studio"]
+    },
+    "Classes": [
+        {
+            "Subject": "Compiler Design",
+            "Type": "L",  
+            "Instructor": "Dusan Vujosevic",
+            "Groups": ["301", "302", "303", "304", "305", "306", "307", "308", "309", "309a"],
+            "Classroom": "n",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Human-Computer Interaction",
+            "Type": "L",
+            "Instructor": "Dusan Vujosevic",
+            "Groups": ["301", "302", "303", "304", "305", "306", "307", "308", "309", "309a", "2s1", "2s2"],
+            "Classroom": "k",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Machine Learning",
+            "Type": "L",
+            "Instructor": "Nemanja Ilic",
+            "Groups": ["301", "302", "306", "308"],
+            "Classroom": "n",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Human-Computer Interaction",
+            "Type": "T",
+            "Instructor": "Nemanja Radosavljevic",
+            "Groups": ["301", "303", "304", "305"],
+            "Classroom": "r",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Web Programming",
+            "Type": "L",
+            "Instructor": "Milan Vidakovic",
+            "Groups": ["301", "303", "304", "307", "308", "309", "314", "319", "322"],
+            "Classroom": "n",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Web Programming",
+            "Type": "T",
+            "Instructor": "Vuk Gavrilovic",
+            "Groups": ["301", "303", "304", "307", "322"],
+            "Classroom": "r",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Compiler Design",
+            "Type": "T",
+            "Instructor": "Ivana Stankovic",
+            "Groups": ["301", "305", "308"],
+            "Classroom": "r",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Software Components",
+            "Type": "L",
+            "Instructor": "Bojana Dimic Surla",
+            "Groups": ["301", "307", "309a"],
+            "Classroom": "n",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Software Components",
+            "Type": "T",
+            "Instructor": "Mihailo Radovic",
+            "Groups": ["301", "307", "309a"],
+            "Classroom": "r",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Machine Learning",
+            "Type": "T",
+            "Instructor": "Nikola Jovanovic",
+            "Groups": ["301", "308", "302", "306"],
+            "Classroom": "n",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Genetic Algorithms",
+            "Type": "T",
+            "Instructor": "Milan Tomic",
+            "Groups": ["302", "303"],
+            "Classroom": "r",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Compiler Design",
+            "Type": "T",
+            "Instructor": "Ivana Stankovic",
+            "Groups": ["302", "303", "304"],
+            "Classroom": "r",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Genetic Algorithms",
+            "Type": "L",
+            "Instructor": "Jelena Vasiljevic",
+            "Groups": ["302", "303", "305", "306", "309", "309a"],
+            "Classroom": "n",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Functional Programming",
+            "Type": "L",
+            "Instructor": "Bojana Dimic Surla",
+            "Groups": ["302", "304", "309"],
+            "Classroom": "r",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Functional Programming",
+            "Type": "T",
+            "Instructor": "Igor Ciganovic",
+            "Groups": ["302", "304", "309"],
+            "Classroom": "r",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Human-Computer Interaction",
+            "Type": "T",
+            "Instructor": "Nemanja Radosavljevic",
+            "Groups": ["302", "307", "306"],
+            "Classroom": "r",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Mobile Application Development",
+            "Type": "L",
+            "Instructor": "Nemanja Zirojevic",
+            "Groups": ["303", "304", "305", "306", "307", "308", "313", "314"],
+            "Classroom": "n",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Mobile Application Development",
+            "Type": "T",
+            "Instructor": "Dragoljub Kojadinovic",
+            "Groups": ["303", "304", "305", "306", "307", "308", "313", "314"],
+            "Classroom": "r",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Modeling and Simulation",
+            "Type": "L",
+            "Instructor": "Radomir Jankovic",
+            "Groups": ["305", "319", "323", "309a", "324"],
+            "Classroom": "n",
+            "Duration": "2"
+        },
+        {
+            "Subject": "Compiler Design",
+            "Type": "T",
+            "Instructor": "Ivana Stankovic",
+            "Groups": ["306", "307", "309", "309a"],
+            "Classroom": "r",
+            "Duration": "2"
+        }
+    ]
+}

@@ -32,6 +32,8 @@ def subjects_order_cost(subjects_order):
                 cost += 1
 
     # print(cost, total)
+    if total == 0:
+        return 100.0  # or 0.0 depending on how you want to handle empty input
     return 100 * (total - cost) / total
 
 

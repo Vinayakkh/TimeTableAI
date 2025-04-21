@@ -3,194 +3,196 @@
 Hard constraints satisfied: 100.00 %
 Soft constraints satisfied: 100.00 %
 
-TOTAL empty space for all GROUPS and all days: 14
+TOTAL empty space for all GROUPS and all days: 22
 MAX empty space for GROUP in day: 4
-AVERAGE empty space for GROUPS per week: 0.78
+AVERAGE empty space for GROUPS per week: 1.22
 
-TOTAL empty space for all TEACHERS and all days: 2
-MAX empty space for TEACHER in day: 2
-AVERAGE empty space for TEACHERS per week: 0.13
+TOTAL empty space for all TEACHERS and all days: 0
+MAX empty space for TEACHER in day: 0
+AVERAGE empty space for TEACHERS per week: 0.00
 
-Free term -> Tuesday: 15
+Free term -> Monday: 9
 
 --------------------------- SCHEDULE ---------------------------
 
-Class 1
-Teacher: Bojana Dimic Surla 
-Subject: Functional Programming 
-Groups: 302, 304, 309 
-Type: L 
-Duration: 2 hour(s)
-Classroom: U5 
-Time: Friday 15 16
 
-Class 8
-Teacher: Vuk Gavrilovic 
-Subject: Web Programming 
-Groups: 301, 303, 304, 307, 322 
+
+Class 5
+Teacher: Mihailo Radovic 
+Subject: Software Components 
+Groups: 301, 307, 309a 
 Type: T 
 Duration: 2 hour(s)
-Classroom: U5 
-Time: Monday 11 12
-
-Class 4
-Teacher: Dusan Vujosevic 
-Subject: Human-Computer Interaction 
-Groups: 301, 302, 303, 304, 305, 306, 307, 308, 309, 309a, 2s1, 2s2 
-Type: L 
-Duration: 2 hour(s)
-Classroom: Kolarac 
-Time: Monday 15 16
-
-Class 6
-Teacher: Nikola Jovanovic 
-Subject: Machine Learning 
-Groups: 301, 302, 306, 308 
-Type: T 
-Duration: 2 hour(s)
-Classroom: U8 
+Classroom: U4 
 Time: Wednesday 11 12
 
+Class 13
+Teacher: Bersha Kumari
+Subject: Mobile Application Development 
+Groups: 303, 304, 305, 306, 307, 308, 314, 313 
+Type: T 
+Duration: 2 hour(s)
+Classroom: U5 
+Time: Monday 13 14
+
+Class 3
+Teacher: Kashifa Khan 
+Subject: Compiler Design 
+Groups: 301, 302, 303, 304, 305, 306, 307, 308, 309, 309a 
+Type: L 
+Duration: 2 hour(s)
+Classroom: U8 
+Time: Thursday 15 16
+
 Class 0
+Teacher: Indra Kishore
+Subject: IOT 
+Groups: 301, 303, 304, 307, 308, 309, 314, 319, 322 
+Type: L 
+Duration: 2 hour(s)
+Classroom: U1 
+Time: Monday 11 12
+
+Class 1
 Teacher: Bojana Dimic Surla 
 Subject: Software Components 
 Groups: 301, 307, 309a 
 Type: L 
 Duration: 2 hour(s)
 Classroom: U8 
-Time: Wednesday 15 16
+Time: Thursday 17 18
 
-Class 12
+Class 18
+Teacher: Hari Mohan 
+Subject: Machine Learning 
+Groups: 301, 302, 306, 308 
+Type: L 
+Duration: 2 hour(s)
+Classroom: U8 
+Time: Thursday 13 14
+
+Class 7
+Teacher: Jelena Vasiljevic 
+Subject: Genetic Algorithms 
+Groups: 302, 303, 305, 306, 309, 309a 
+Type: L 
+Duration: 2 hour(s)
+Classroom: U1 
+Time: Wednesday 13 14
+
+Class 9
+Teacher: Nemanja Zirojevic 
+Subject: Mobile Application Development 
+Groups: 303, 304, 305, 306, 307, 308, 314, 313 
+Type: L 
+Duration: 2 hour(s)
+Classroom: U8 
+Time: Friday 17 18
+
+Class 19
 Teacher: Ivana Stankovic 
 Subject: Compiler Design 
 Groups: 306, 307, 309, 309a 
 Type: T 
 Duration: 2 hour(s)
 Classroom: U3 
-Time: Monday 13 14
-
-Class 5
-Teacher: Nemanja Radosavljevic 
-Subject: Human-Computer Interaction 
-Groups: 302, 306, 307 
-Type: T 
-Duration: 2 hour(s)
-Classroom: U7 
-Time: Friday 19 20
+Time: Monday 17 18
 
 Class 17
-Teacher: Mihailo Radovic 
-Subject: Software Components 
-Groups: 301, 307, 309a 
-Type: T 
-Duration: 2 hour(s)
-Classroom: U7 
-Time: Friday 17 18
-
-Class 14
-Teacher: Nemanja Zirojevic 
-Subject: Mobile Application Development 
-Groups: 303, 304, 305, 306, 307, 308, 314, 313 
-Type: L 
-Duration: 2 hour(s)
-Classroom: U1 
-Time: Thursday 15 16
-
-Class 18
-Teacher: Milan Vidakovic 
-Subject: Web Programming 
-Groups: 301, 303, 304, 307, 308, 309, 314, 319, 322 
-Type: L 
-Duration: 2 hour(s)
-Classroom: U8 
-Time: Tuesday 13 14
-
-Class 11
-Teacher: Nemanja Ilic 
-Subject: Machine Learning 
-Groups: 301, 302, 306, 308 
-Type: L 
-Duration: 2 hour(s)
-Classroom: U8 
-Time: Wednesday 9 10
-
-Class 10
-Teacher: Radomir Jankovic 
-Subject: Modeling and Simulation 
-Groups: 305, 309a, 319, 323, 324 
-Type: L 
-Duration: 2 hour(s)
-Classroom: U8 
-Time: Monday 19 20
-
-Class 19
-Teacher: Dragoljub Kojadinovic 
-Subject: Mobile Application Development 
-Groups: 303, 304, 305, 306, 307, 308, 314, 313 
-Type: T 
-Duration: 2 hour(s)
-Classroom: U3 
-Time: Wednesday 13 14
-
-Class 3
 Teacher: Milan Tomic 
 Subject: Genetic Algorithms 
 Groups: 302, 303 
 Type: T 
 Duration: 2 hour(s)
-Classroom: U3 
-Time: Wednesday 15 16
-
-Class 16
-Teacher: Ivana Stankovic 
-Subject: Compiler Design 
-Groups: 302, 303, 304 
-Type: T 
-Duration: 2 hour(s)
-Classroom: U3 
-Time: Wednesday 17 18
-
-Class 15
-Teacher: Nemanja Radosavljevic 
-Subject: Human-Computer Interaction 
-Groups: 301, 303, 304, 305 
-Type: T 
-Duration: 2 hour(s)
 Classroom: U5 
-Time: Monday 13 14
+Time: Wednesday 11 12
 
-Class 7
-Teacher: Dusan Vujosevic 
-Subject: Compiler Design 
-Groups: 301, 302, 303, 304, 305, 306, 307, 308, 309, 309a 
-Type: L 
-Duration: 2 hour(s)
-Classroom: U1 
-Time: Tuesday 11 12
-
-Class 9
+Class 8
 Teacher: Ivana Stankovic 
 Subject: Compiler Design 
 Groups: 301, 305, 308 
 Type: T 
 Duration: 2 hour(s)
 Classroom: U7 
-Time: Monday 9 10
+Time: Monday 15 16
 
-Class 13
+Class 11
+Teacher: Bojana Dimic Surla 
+Subject: Functional Programming 
+Groups: 302, 304, 309 
+Type: L 
+Duration: 2 hour(s)
+Classroom: U5 
+Time: Tuesday 15 16
+
+Class 10
+Teacher: Vuk Gavrilovic 
+Subject: Web Programming 
+Groups: 301, 303, 304, 307, 322 
+Type: T 
+Duration: 2 hour(s)
+Classroom: U5 
+Time: Wednesday 9 10
+
+Class 15
+Teacher: Nemanja Radosavljevic 
+Subject: Human-Computer Interaction 
+Groups: 302, 306, 307 
+Type: T 
+Duration: 2 hour(s)
+Classroom: U5 
+Time: Monday 15 16
+
+Class 12
+Teacher: Manish Sharma 
+Subject: Human-Computer Interaction 
+Groups: 301, 303, 304, 305 
+Type: T 
+Duration: 2 hour(s)
+Classroom: U3 
+Time: Thursday 11 12
+
+Class 6
+Teacher: Ivana Stankovic 
+Subject: Compiler Design 
+Groups: 302, 303, 304 
+Type: T 
+Duration: 2 hour(s)
+Classroom: U3 
+Time: Thursday 9 10
+
+Class 16
+Teacher: Radomir Jankovic 
+Subject: Modeling and Simulation 
+Groups: 305, 309a, 319, 323, 324 
+Type: L 
+Duration: 2 hour(s)
+Classroom: U8 
+Time: Thursday 19 20
+
+Class 14
 Teacher: Igor Ciganovic 
 Subject: Functional Programming 
 Groups: 302, 304, 309 
 Type: T 
 Duration: 2 hour(s)
-Classroom: U4 
-Time: Tuesday 9 10
+Classroom: U5 
+Time: Tuesday 17 18
+
+Class 4
+Teacher: Nikola Jovanovic 
+Subject: Machine Learning 
+Groups: 301, 302, 306, 308 
+Type: T 
+Duration: 2 hour(s)
+Classroom: U1 
+Time: Monday 19 20
 
 Class 2
-Teacher: Jelena Vasiljevic 
-Subject: Genetic Algorithms 
-Groups: 302, 303, 305, 306, 309, 309a 
+Teacher: Manish Sharma 
+Subject: Human-Computer Interaction 
+Groups: 301, 302, 303, 304, 305, 306, 307, 308, 309, 309a, 2s1, 2s2 
 Type: L 
 Duration: 2 hour(s)
-Classroom: U8 
-Time: Monday 17 18
+Classroom: Kolarac 
+Time: Tuesday 19 20

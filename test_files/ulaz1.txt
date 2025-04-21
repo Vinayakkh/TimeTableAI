@@ -10,7 +10,7 @@
         {
             "Subject": "Compiler Design",
             "Type": "L",  
-            "Teacher": "Dusan Vujosevic",
+            "Teacher": "Kashifa Khan",
             "Groups": ["301", "302", "303", "304", "305", "306", "307", "308", "309", "309a"],
             "Classroom": "n",
             "Duration": "2"
@@ -18,7 +18,7 @@
         {
             "Subject": "Human-Computer Interaction",
             "Type": "L",
-            "Teacher": "Dusan Vujosevic",
+            "Teacher": "Manish Sharma",
             "Groups": ["301", "302", "303", "304", "305", "306", "307", "308", "309", "309a", "2s1", "2s2"],
             "Classroom": "k",
             "Duration": "2"
@@ -26,7 +26,7 @@
         {
             "Subject": "Machine Learning",
             "Type": "L",
-            "Teacher": "Nemanja Ilic",
+            "Teacher": "Hari Mohan",
             "Groups": ["301", "302", "306", "308"],
             "Classroom": "n",
             "Duration": "2"
@@ -34,15 +34,15 @@
         {
             "Subject": "Human-Computer Interaction",
             "Type": "T",
-            "Teacher": "Nemanja Radosavljevic",
+            "Teacher": "Manish Sharma",
             "Groups": ["301", "303", "304", "305"],
             "Classroom": "r",
             "Duration": "2"
         },
         {
-            "Subject": "Web Programming",
+            "Subject": "IOT",
             "Type": "L",
-            "Teacher": "Milan Vidakovic",
+            "Teacher": "Indra Kishore",
             "Groups": ["301", "303", "304", "307", "308", "309", "314", "319", "322"],
             "Classroom": "n",
             "Duration": "2"
